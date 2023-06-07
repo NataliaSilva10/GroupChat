@@ -1,4 +1,4 @@
-# MenssageApp
+# GroupChat
 
 Create messenger chat application use Nodejs Expressjs, Reactjs.
 
